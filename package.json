@@ -21,6 +21,6 @@
   "homepage": "https://github.com/lannstark/sparcs-ajax-example#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.3.6"
+    "mongoose": "^5.7.5"
   }
 }
